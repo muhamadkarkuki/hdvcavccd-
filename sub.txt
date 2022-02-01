@@ -1,0 +1,5 @@
+https://test.roposo.com/
+https://staging.roposo.com/
+https://staging-shop.roposo.com/
+https://shop.roposo.com/
+https://grabter.roposo.com/
